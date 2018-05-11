@@ -4,3 +4,4 @@ base:
     - sshport
     - skel
     - sshguard
+    - installations
