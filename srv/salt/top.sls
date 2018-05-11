@@ -6,3 +6,4 @@ base:
     - skel
     - sshguard
     - installations
+    - teamviewer
